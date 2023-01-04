@@ -1,8 +1,4 @@
-<Animation
-define([
-    'require',
-    'dependency'
-], function(require, factory) {
-    'use strict';
-    
-});
+test 1
+test 2
+test 3
+test 4
